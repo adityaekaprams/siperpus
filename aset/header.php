@@ -19,7 +19,7 @@
         <a class="nav-item nav-link" href="http://localhost/siperpus/buku/index.php">Buku</a>
         <a class="nav-item nav-link" href="http://localhost/siperpus/anggota/index.php">Anggota</a>
         <a class="nav-item nav-link" href="http://localhost/siperpus/transaksi/index.php">peminjaman</a>
-        <a class="nav-item nav-link" href="#">logout</a>
+        <a class="nav-item nav-link" href="http://localhost/siperpus/login/logout.php">logout</a>
       </li>
     </ul>
   </div>
